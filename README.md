@@ -1,6 +1,5 @@
 # Expense Tracker - MERN Stack 💸
 
-![Project Banner](https-placeholder-for-banner-image)
 
 Welcome to the MERN Stack Expense Tracker! This is a full-stack web application designed to help you manage your finances with ease. Track your income, monitor your expenses, and gain a clear overview of your financial health through a clean and interactive dashboard.
 
@@ -44,12 +43,11 @@ Make sure you have the following installed on your system:
 1.  **Clone the Repository**
     Open your terminal and run this command:
     ```sh
-    git clone [https://github.com/techinfo-youtube/prouction-Expense-app-mern.git](https://github.com/techinfo-youtube/prouction-Expense-app-mern.git)
-    ```
+    git clone https://github.com/aanyajoshi/budget_tracker_.git
 
 2.  **Navigate to the Project Directory**
     ```sh
-    cd prouction-Expense-app-mern
+    cd budget_tracker_
     ```
 
 3.  **Install Backend Dependencies**
