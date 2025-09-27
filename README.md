@@ -1,7 +1,7 @@
-# Expense Tracker - MERN Stack 💸
+# Budget Tracker - MERN Stack 💸
 
 
-Welcome to the MERN Stack Expense Tracker! This is a full-stack web application designed to help you manage your finances with ease. Track your income, monitor your expenses, and gain a clear overview of your financial health through a clean and interactive dashboard.
+Welcome to the MERN Stack Budget Tracker! This is a full-stack web application designed to help you manage your finances with ease. Track your income, monitor your expenses, and gain a clear overview of your financial health through a clean and interactive dashboard.
 
 ---
 
