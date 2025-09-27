@@ -80,6 +80,7 @@ Make sure you have the following installed on your system:
     npm run dev
     ```
     This command starts both the backend server and the frontend client. Your app should now be running at `http://localhost:3000`.
+    "change the code according to what your computer shows"
 
 ---
 
