@@ -12,7 +12,7 @@ Welcome to the MERN Stack Expense Tracker! This is a full-stack web application 
 * 💸 **Transaction Management:** Easily add, view, edit, and delete your income and expenses.
 * 📈 **Data Visualization:** Analyze your financial data with beautiful and interactive charts.
 * 📄 **Export Data:** Download your transaction history as an Excel file for your records.
-* 📱 **Fully Responsive:** Use the app seamlessly on your desktop, tablet, or mobile phone.
+* 📱 **Responsive:** Use the app seamlessly on your desktop.
 
 ---
 
